@@ -141,15 +141,29 @@
 # if "f" in x:
 #     print("slovo f se nalazi")
 # else:
-#     print("slovo f se ne nalazi")
+# #     print("slovo f se ne nalazi")
+# print("povrsina pravougaonika je :",a*b)
 
-
-# ime = input("Kako se zove tip podatka koji uvek pisemo u zagradama: ")
-# if ime=="string":   
+# pitanje = input("Kako se zove tip podatka koji uvek pisemo medju navodnicima: ")
+# if pitanje=="string":   
 #     print("tacan odgovor")
 # else:
-#      print("Nažalost nisi pogodila :(")
+#      print("Nažalost niste pogodili :(")
 
+# a=int(input("unesite stranicu a:"))
+# b=int(input("unesite stranicy b:"))
+# if a>b:
+#     print("povrsina peravougaonika iznosi:",a*b)
+# elif a<b:
+#     print("povrsina peravougaonika iznosi:",a*b)
+# else:
+#     print("nazalost ovo nisu stranice za pravougaonik")
+# a=int(input("unesite stranicu a:"))
+# b=int(input("unesite stranicy b:"))
+# if a==b:
+#     print("povrsina kvadrata iznosi:",a*b)
+# else:
+#     print("ovo nisu jednake strannice")
 # a=int(input('unesite stranicu'))
 # b=int(input('unesite stanicu'))
 # if a==b:
@@ -177,3 +191,79 @@
 #     print("kolicnik je:", a/b)
 # else:
 #     print("kraj")
+
+
+# a=int(input("unesite stranicu a:"))
+# b=int(input("unesite stranicu b:"))
+# if a==b:
+#     print("povrsina kvadrata iznosi:",a*b)
+# else:
+#     print("oov nisu stranice za kvadrat")
+
+# x=str(input("unesite zeljenu operaciju"))
+# if x=="sabiranje":
+#     a int input unesite zeljeni broj
+#     b int input
+#     ptint(zbir iznosi ,a+b)
+
+# elif x=="oduzimanje"
+# a
+# b
+# print
+# elif
+# elif
+
+# a=int(input("unesite stranicu a:"))
+# b=int(input("unesite stranicy b:"))
+# if a!=b:
+#     print("povrsina pravougaonika iznosi:",a*b)
+# else:
+#     print("ovo nisu pogoodne stranice za racunanje povrsine pravougaonika")
+
+# a=int(input("unesite stranicu a:"))
+# b=int(input("unesite stranicy b:"))
+# if a!=b:
+#     print("povrsina pravougaonika iznosi:",a*b)
+# else:
+#     print("ovo nisu pogoodne stranice za racunanje povrsine pravougaonika")
+
+# RAZLIKA Z
+# a b a+b
+# a=str(input("unesite neku rec"))
+# if "z"in a:
+#     a=int(input("unesite neki broj"))
+#     b=int(input("unesite neki broj"))/
+#     print("zbir iznosi:",a+b)
+# else:
+#     a=int(input("unesite neki broj"))
+#     b=int(input("unesite neki broj"))
+#     print("razlika iznosi:",a-b)
+
+
+# a=str(input("unesite neko ime"))
+# isa +
+# lejla-
+# hamza*
+# mehmed/
+  
+
+# a
+# a 2
+#   print Amir
+#   a 3
+#   print amin
+
+# %2 20/2
+# 10.0
+# x=int(input("unesite zeljeni broj"))
+# if x%2==0:
+#     print("Amir")
+# elif x%3==0:
+#     print("Amin")
+# else:
+#     print('izlaz iz programa')
+#     20/2
+#     10.0
+# deljiv
+# 21/2
+# 10,5
