@@ -266,4 +266,10 @@
 #     10.0
 # deljiv
 # 21/2
-# 10,5
+
+# a = int(input("Unesi broj od 1 do 20 "))
+# if a < 1 : print ("Uneti broj je manji od 1") 
+# elif a > 20:
+#     print (" Uneti broj je veći od 20")
+# else:
+#     print ("Broj je u traženom rangu")
