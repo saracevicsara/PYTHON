@@ -3,7 +3,16 @@
 # broj=input("unesite zeljeni broj")
 # print(broj)
 # OTORINOLARINGOLOGIJA LOGIJA
-
+# a='otorinolaringologija'
+# print(len(a))
+# "print("sara"+"saracevic")"
+# ime="sara"
+# prezime="saracevic"
+# print(ime+""+prezime)
+# x=12
+# print(float(x))
+# x=12.9
+# print(int(x))
 # 1638 int 
 # broj=7585497
 # print(broj)
@@ -171,6 +180,7 @@
 # else:
 #     print('povrsina provogaonika iznosi',a*b)
 
+# 
 
 # h=str(input("odaberite operaciju:"))
 # if h=="zbir":
@@ -273,3 +283,8 @@
 #     print (" Uneti broj je veći od 20")
 # else:
 #     print ("Broj je u traženom rangu")
+# print("danas je \n lepo  \n vreme")
+# tekst="Twinkle, twinkle, little star,
+#  How I wonder what you are!
+#   Up above the world so high.
+ 
