@@ -288,3 +288,19 @@
 #  How I wonder what you are!
 #   Up above the world so high.
  
+# a=int(input('koliko imate godina'))
+# if a<8:
+#     print('vozite se besplatno')
+# elif a>=8 and a<=18:
+#     print('cena vase karte je 200 dinara')
+# elif a>65:
+#     print('cena vase karte je 100 dinara')
+# else:
+#     print('cena vase karte je 500 dinara')
+
+
+
+
+
+
+# https://github.com/saracevicsara/
