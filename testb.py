@@ -10,7 +10,7 @@
 #"10"-
 #99-
 #"programski jezik"
-#Unesi neki prirodan broj i provjeri da li je taj broj djeljiv sa tri
+#8.Unesi neki prirodan broj i provjeri da li je taj broj djeljiv sa tri
 #9.Omogućite unos realnog broja i ispitajte da li je broj negativan ili pozitivan.!!!!(-3 -2 -1 0 1 2 3 )!!!!
 #10.Unesite dva broja. Saberite ih. Ako je zbroj veći od 20 ispišite : Suma je veća od 15 u
 #suprotnom ispišite: Suma je manja od 15    
