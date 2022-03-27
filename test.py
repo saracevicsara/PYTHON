@@ -7,12 +7,44 @@
 #5.broj 45 pretvori u decimalni broj
 #6.saberi dva random broja (pomocu naredbe input)
 #7.pored tipa podatka ispisi naziv
-#22.3-
-#"56"-
-#48-
-#"python"
+#22.3-float
+#"56"-string
+#48-int
+#"python"-str
 #8.Unesi neki prirodan broj i provjeri da li je taj broj djeljiv sa dva
 #9.Omogućite unos realnog broja i ispitajte da li je broj negativan ili pozitivan.!!!!(-3 -2 -1 0 1 2 3 )!!!!
 #10.Unesite dva broja. Saberite ih. Ako je zbroj veći od 20 ispišite : Suma je veća od 20 u
 #suprotnom ispišite: Suma je manja od 200
-0
+# print("sara"+"saracevic")
+# ime="sara"
+# prezime="saracevic"
+# print(ime+prezime)
+# ime="sarasaracevic"
+# print(ime[4:])
+# print(float(45))
+# a=int(input("unesite zeljeni broj:"))
+# b=int(input("unesite zeljeni broj:"))
+# print(a+b)
+# b=int(input("unesite zeljeni broj:"))
+# if b%2==0:
+#     print("broj je de;jiv sa dva")
+# else:
+#     print("broj nije deljiv sa dva")
+#     3/2
+#     1.5
+#     3.0
+#     10/2
+#     5.0
+# -3,-2,-1 0 1 2 3
+# a=int(input("unesite zeljeni broj:"))
+# if a>0:
+#     print("broj je pozitivan")
+# else:
+#     print("broj je negativan")
+# a=int(input("unesite zeljeni broj:"))
+# b=int(input("unesite zeljeni broj:"))
+# x=a+b
+# if x>20:
+#     print("suma je veca od 20")
+# else:
+#     print("suma je manja od 20")

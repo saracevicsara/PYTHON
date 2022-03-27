@@ -71,6 +71,8 @@
 #     print("suma je manja od 20")
 
 
+# 
+
 # x=int(input("unesite random broj"))
 # y=int(input("unesite random broj"))
 # z=x+y
@@ -298,9 +300,27 @@
 # else:
 #     print('cena vase karte je 500 dinara')
 
+# a=int(input("unesite broj:"))
+# b=int(input("unesite broj:"))
+# if a>0 and b>a:
+#     print("TRUE")
+# else:
+#     print("FALSE")
 
 
 
-
+# a=input("zelite li uneti brojeve da/ne")
+# if a=='da':
+#     b=int(input("unesite 1.broj"))
+#     if b<=10:
+#         c=int(input("unesite 2.broj"))
+#         if c<=10:
+#             print("rezultat je",b*c)
+#         else:
+#             print("broj nije u opsegu")
+#     else:
+#         print("broj nije u opsegu")
+# else:
+#     print("izlaz")
 
 # https://github.com/saracevicsara/
