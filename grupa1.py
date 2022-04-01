@@ -324,3 +324,6 @@
 #     print("izlaz")
 
 # https://github.com/saracevicsara/
+
+
+#FOR PETLJA
