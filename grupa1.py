@@ -327,3 +327,19 @@
 
 
 #FOR PETLJA
+#Programske petlje su programske strukture koji omogućavaju višestruko ponavljanje
+#određenog dijela programskog koda
+# Ispunjenjem uvjeta određeni dio koda, izvršava se zadani broj puta. 
+# Ključna riječ za aktivaciju petlje je naredba for. 
+#Uz nju dolazi oznaka i koja označava brojač.
+# for i in range(1,11):
+#     print(i)
+# Ispišite ponavljanje rečenice „Unosimo policu broj“ deset puta
+# for i in range(1,11):
+#     print("unosimo policu broj" ,i)
+# Ispisati samo parne brojeve brojevnog niza od prvih 10 brojeva.
+# for i in range(0,10,2):
+#     print(i)
+# a=int(input("unesite zeljeni broj"))
+# if a%3==0:
+#     print("plava")
