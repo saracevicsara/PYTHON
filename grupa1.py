@@ -332,14 +332,38 @@
 # Ispunjenjem uvjeta određeni dio koda, izvršava se zadani broj puta. 
 # Ključna riječ za aktivaciju petlje je naredba for. 
 #Uz nju dolazi oznaka i koja označava brojač.
+
 # for i in range(1,11):
 #     print(i)
 # Ispišite ponavljanje rečenice „Unosimo policu broj“ deset puta
 # for i in range(1,11):
 #     print("unosimo policu broj" ,i)
 # Ispisati samo parne brojeve brojevnog niza od prvih 10 brojeva.
-# for i in range(0,10,2):
+# for i in range(0,20,12):
 #     print(i)
 # a=int(input("unesite zeljeni broj"))
 # if a%3==0:
 #     print("plava")
+# print("unosimo policu broj 1")
+# print("unosimo policu broj 2")
+# print("unosimo policu broj 3")
+# print("unosimo policu broj 4")
+# print("unosimo policu broj 5")
+# print("unosimo policu broj 6")
+# for i in range(1,11):
+#     print("unosimo poolicu broj",i)
+# for i in range(2,10,2):
+#     print(i)
+# for i in range(6,0,-1):
+#     print(i)
+# for i in range(1,11):
+#     if i !=7:
+#         print(i)
+# for i in range(0,3):
+#     print("python")
+# for i in range(0,3):
+#     print("je super")
+# for i in range(0,5):
+#     print(i)
+# else:
+#     print("program je zavrsen")
