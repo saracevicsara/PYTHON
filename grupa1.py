@@ -367,3 +367,11 @@
 #     print(i)
 # else:
 #     print("program je zavrsen")
+# n=int(input("unesite neki broj"))
+# for i in range(n,0,-1):
+#     print(i)
+
+# o=int(input('unesite neki broj'))
+# for i in range(0,o+1,2):
+#     print(i)
+
