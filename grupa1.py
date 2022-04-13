@@ -375,3 +375,39 @@
 # for i in range(0,o+1,2):
 #     print(i)
 
+# broj_ucenika = int(input("Unestite broj ucenika: "))
+# n = int(input("Unesite prirodan broj: "))
+# for i in range(1, broj_ucenika+1, n):
+#     print("Ispitivat ce ucenika sa rednim brojem: ", i)
+
+
+# a=int(input("unesi temperaturu"))
+# if a>=20:
+#     print("vruce je vreme")
+# elif a>=15:
+#     print("kisno je vreme")
+# elif a>=10:
+#     print("hladno je")
+
+# najvisi = 0
+# najnizi = 0
+# n=int(input("unesite broj ucenika"))
+# for i in range (0,n):
+#     u = int(input("unesite visinu ucenika na sadasnjem indexu: "))
+#     if  i==0:
+#         najnizi=najvisi=u
+#     if u<najnizi:
+#         najnizi=u
+#     if u>najvisi:
+#         najvisi=u
+#     print("sadasnja najveca visina je: ",najvisi)
+#     print("sadasnja najmanja visina je: ",najnizi)
+
+# print("najniza visina je: ",najnizi)
+# print("najvisa visina je: ",najvisi)
+
+first = int(input('UNesite velicinu prvog ucenika: '))
+second = int(input('UNesite velicinu drugog ucenika: '))
+lista = [first, second]
+print("Veci je: ", max(lista))
+print("Manji je: ", min(lista))
