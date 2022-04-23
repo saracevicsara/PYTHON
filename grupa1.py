@@ -32,7 +32,7 @@
 #     print("a je od b")
 # else:
 #     print("a nije vece od b")
-# rint(10>5)p
+# rint(10>5)
 # a=7
 # print(bool(a))
 # a=0
@@ -192,7 +192,10 @@
 # elif h=="razlika":
 #     a=int(input("unesite neki broj"))
 #     b=int(input("unesite drugi broj"))
-#     print("razlika je:", a-b)
+#     if a>b:
+#         print("razlika je:", a-b)
+#     elif b>a:
+#         print("razlika je",b-a)
 # elif h=="proizvod":
 #     a=int(input("unesite neki broj"))
 #     b=int(input("unesite drugi broj"))
@@ -406,8 +409,8 @@
 # print("najniza visina je: ",najnizi)
 # print("najvisa visina je: ",najvisi)
 
-first = int(input('UNesite velicinu prvog ucenika: '))
-second = int(input('UNesite velicinu drugog ucenika: '))
-lista = [first, second]
-print("Veci je: ", max(lista))
-print("Manji je: ", min(lista))
+# first = int(input('UNesite velicinu prvog ucenika: '))
+# second = int(input('UNesite velicinu drugog ucenika: '))
+# lista = [first, second]
+# print("Veci je: ", max(lista))
+# print("Manji je: ", min(lista))
