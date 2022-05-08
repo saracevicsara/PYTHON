@@ -414,3 +414,8 @@
 # lista = [first, second]
 # print("Veci je: ", max(lista))
 # print("Manji je: ", min(lista))
+
+# for i in range(1,11):
+# i = 1
+# while i<6:
+#     print(i)
