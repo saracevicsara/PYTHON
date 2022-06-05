@@ -33,4 +33,43 @@
 # prezime=input("unesite svoje prezime:")
 # print(ime+prezime)
 #spojite ime ,prezime i godine u jednu recenicu
-
+# ime="sara"
+# print(ime)
+# ime=input("kako se zovete")
+# print(ime)
+# x=12
+# print(float(x))
+# x=12456789.7
+# print(int(x))
+# x=5
+# print(bool(x))
+# x=0
+# print(bool(x))
+# x=-5345678
+# print(bool(x))
+# x=""
+# print(bool(x))
+# x="geygu3gcy"
+# print(bool(x))
+# x=89.89
+# print(int(x))
+# x=""
+# print(bool(x))
+#METODE ZA STRING-LEN   
+# x="otorinolaringologija"
+# print(len(x))
+# imePrezime="sarasaracevic"
+# print(len(imePrezime))
+#OPERATORI
+#+-sabiranje
+#-   oduzimanje
+#/-deljenje
+#* - mnozenje
+# a=int(input("unesite prvi broj"))
+# b=int(input("unesite drugi broj"))
+# print( "zbir je:",a+b)
+# a=int(input("unesite prvi broj"))
+# b=int(input("unesite drugi broj"))
+# print( "razlika je:",a-b)
+#DOMACI
+#POMNOZITE DVA (INPUT) BROJA
