@@ -73,3 +73,19 @@
 # print( "razlika je:",a-b)
 #DOMACI
 #POMNOZITE DVA (INPUT) BROJA
+# a=int(input("unesite prvi broj"))
+# b=int(input("unesite drugi broj"))
+# print("proizvod je:",a*b)
+# a=int(input("unesite prvi broj"))
+# b=int(input("unesite drugi broj"))
+# print("kolicnik:",a/b)
+# %-moduo2
+# a=int(input("unesite temperaturu"))#input varijable a
+# if a>25:#uslov ako je temperatura veca od 25
+#     print("toplo je")#ispis temperature
+# elif a<25:#uslov ako je temperatura manja od 25
+#     print("hladno je")#ispis temperature manje od 25 stepeni
+broj=int(input("unesite korisnice broj"))
+if broj>10:
+    print("broj je veci od 10")
+elif
