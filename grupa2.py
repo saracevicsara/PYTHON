@@ -88,4 +88,3 @@
 broj=int(input("unesite korisnice broj"))
 if broj>10:
     print("broj je veci od 10")
-elif
