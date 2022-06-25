@@ -25,7 +25,7 @@
 # 4-tresanja
 # 5-kruska
 # jabuke=3.5
-# tresanja=4
+#  tresanja=4
 # kruska=5
 # print(jabuke+tresanja+kruska)
 # jabuke=3.5
@@ -33,5 +33,5 @@
 # kruska=5
 # suma=jabuke+tresanja+kruska
 # print(suma)
-a=str(input("unesite neku rec:"))
-print(a*5)
+# a=str(input("unesite neku rec:"))
+# print(a*5)

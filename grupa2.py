@@ -85,6 +85,26 @@
 #     print("toplo je")#ispis temperature
 # elif a<25:#uslov ako je temperatura manja od 25
 #     print("hladno je")#ispis temperature manje od 25 stepeni
-broj=int(input("unesite korisnice broj"))
-if broj>10:
-    print("broj je veci od 10")
+# broj=int(input("unesite korisnice broj"))
+# if broj>10:
+#     print("broj je veci od 10")
+# str="sara"
+# print(str)
+# print("sara"+"saracevic")
+# ime="sara"
+# prezime="saracevic"
+# print(ime+prezime)
+# broj=int(input("unesite neki broj"))
+# print(float(broj))
+#komentari sluze da dodatno objasne moj kod,oni se ne citaju u kodu
+#print()je naredba isto kao i input()
+# a='chkjhgfds',"dfghjk","""sdfghjklfrtghyuji""",'''dfghjuiuytrfgu'''
+# a = "HelloWorld"
+# print(len(a))
+#----------------------------------------------
+# txt = "The best things in life are free!"
+# print("sara" in txt)
+# recenica=str(input("unesite recenicu:"))
+# print("sara" in recenica)
+#DOMACI ZADATAK OBAVEZAN!!!!!!!!!!!!!!!!!!
+# saberite dva broja i rezultat ispišite kao decimalni broj
