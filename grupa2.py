@@ -108,3 +108,31 @@
 # print("sara" in recenica)
 #DOMACI ZADATAK OBAVEZAN!!!!!!!!!!!!!!!!!!
 # saberite dva broja i rezultat ispišite kao decimalni broj
+
+# a=int(input("unesite prvi broj"))
+# b=int(input("unesite drugi broj"))
+# print(float(a+b))
+
+
+# prvi_broj=float(input("unesite prvi broj"))
+# drugi_broj=float(input("unesite drugi broj"))
+# print(int(prvi_broj+drugi_broj))
+
+
+#jedna varijabla za unosenje dolara
+#vrednost dolara u dinarima =106din
+#pomnozite varijablu za unosenje dolara i vrednost dolara u dinarima
+#ispisite rezultAT
+
+
+# a=int(input("koliko zelite dolara da razmenite u dinare"))
+# b=106
+# print(a*b)
+
+# a=int(input("koliko zelite eura zarmeniti u dinare"))
+# b=117
+# print(a*b)
+
+a=str(input("unesite prvu rec"))
+b=str(input("unesite drugu rec"))
+print(a+b)
