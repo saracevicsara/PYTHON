@@ -133,6 +133,42 @@
 # b=117
 # print(a*b)
 
-a=str(input("unesite prvu rec"))
-b=str(input("unesite drugu rec"))
-print(a+b)
+# a=str(input("unesite prvu rec"))
+# b=str(input("unesite drugu rec"))
+
+
+# broj=int(input("unesite neki broj"))
+# if broj==5:
+#     print("broj je jednak")
+# elif broj!=5:
+#     print("broj nije jednak")
+# string=str(input("unesite zeljenu rec ili ime"))
+# if string=="sara":
+#     print("uneta rec je jednaka imenu sara")
+# elif string!="sara":
+# #     print("uneta rec nije jednaka imenu sara")
+# broj=int(input("unesite neki broj"))
+# if broj == 2:
+#     print("broj je jednak")
+#     print(6)
+#     print("macka")
+# else:
+#     print("broj je nejednak")
+# # == !=
+# > <
+# >= <=
+# + -
+# * /
+# if
+# elif
+# elif
+# elif
+# else
+
+# 10%5==0
+
+broj=int(input("unesite neki broj"))
+if broj%5==0:
+    print("broj je deljiv sa 5")
+else:
+    print("broj nije deljiv sa 5")
