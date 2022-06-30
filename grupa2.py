@@ -135,7 +135,7 @@
 
 # a=str(input("unesite prvu rec"))
 # b=str(input("unesite drugu rec"))
-
+#IF STATEMENTS
 
 # broj=int(input("unesite neki broj"))
 # if broj==5:
@@ -167,8 +167,4 @@
 
 # 10%5==0
 
-broj=int(input("unesite neki broj"))
-if broj%5==0:
-    print("broj je deljiv sa 5")
-else:
-    print("broj nije deljiv sa 5")
+#  
