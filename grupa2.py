@@ -192,8 +192,8 @@
 #     print("sifra nije ispravna")
 
 # -3,-2,-1,0,1,2,3
-broj=int(input("unesite neki broj"))
-if broj>0:
-    print("broj je pozitivan")
-else:
-    print("broj je negativan")
+# broj=int(input("unesite neki broj"))
+# if broj>0:
+#     print("broj je pozitivan")
+# else:
+#     print("broj je negativan")
