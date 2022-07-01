@@ -154,11 +154,12 @@
 #     print("macka")
 # else:
 #     print("broj je nejednak")
-# # == !=
+#  == !=
 # > <
 # >= <=
 # + -
 # * /
+
 # if
 # elif
 # elif
@@ -167,4 +168,32 @@
 
 # 10%5==0
 
-#  
+#IF STATEMENTS
+# if 
+# elif 
+# elif 
+# elif 
+# else
+# broj=int(input("unesite neki broj"))
+# if broj>5:
+#     print("broj je veci od 5")
+# else:
+#     print("broj je manji od 5")
+# rec=str(input("unesite rec"))
+# if rec=="sara":
+#     print("rec je jednaka sara")
+# else:
+#     print("rec nije jednaka sara")
+# sifra=123
+# korisnik=int(input("unesite sifru")) 
+# if korisnik==sifra:
+#     print("sifra je ispravna")
+# else:
+#     print("sifra nije ispravna")
+
+# -3,-2,-1,0,1,2,3
+broj=int(input("unesite neki broj"))
+if broj>0:
+    print("broj je pozitivan")
+else:
+    print("broj je negativan")
