@@ -197,3 +197,37 @@
 #     print("broj je pozitivan")
 # else:
 #     print("broj je negativan")
+#VARIJABLA JE KUTIJA U KOJOJ SMESTAMO TIPOVE PODATAKA
+# broj=int(input("unesite neki broj"))
+# if broj%2==0:
+#     print("broj je deljiv sa dva")
+# else:
+#     print("broj nije deljiv sa dva")
+# -3,-2,-1 ,0,1,2,3
+# <>
+# broj=int(input("unesite neki broj"))
+# if broj>0:
+#     print("broj je pozitivan")
+# else:
+#     print("broj je negativan")
+
+
+# A
+# b
+# c
+# c==20 
+# x=int(input ("unesite prvi broj"))
+# y=int(input ("unesite drugi broj"))
+# zbir=x+y
+# if zbir>20:
+#     print("zbir je veci od 20")
+# else:
+#     print("zbir je manji o d 20")
+
+# temp
+# temp >25-toplo jw
+# temp<25-hladno je
+#2 inputa ako su a i b jednaki da se izracuna povrsina kvadrata,ako su a i b razlicit da se iyracuna povrsina pravougaonika 
+# a**2
+#a*b
+#github.com/saracevicsara
