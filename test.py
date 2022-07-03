@@ -14,7 +14,37 @@
 #8.Unesi neki prirodan broj i provjeri da li je taj broj djeljiv sa dva
 #9.Omogućite unos realnog broja i ispitajte da li je broj negativan ili pozitivan.!!!!(-3 -2 -1 0 1 2 3 )!!!!
 #10.Unesite dva broja. Saberite ih. Ako je zbroj veći od 20 ispišite : Suma je veća od 20 u
-#suprotnom ispišite: Suma je manja od 200
+#suprotnom ispišite: Suma je manja od 20
+# print("sara"+"saracevic")
+# ime="sara"
+# prezime="saracevic"
+# print(ime+prezime)
+# a=45
+# print(float(a))
+# print(float(45))
+# a=int(input("unesite prvi broj"))
+# b=int(input("unesite drugi broj"))
+# print(a+b)
+
+
+# 22.4=flooat
+# 5=int
+# "sara"=str
+# "434567890"=str
+# 90=int
+# "89.0"=str
+
+
+
+
+
+# broj=int(input("unesite neki broj"))
+# if broj%2==0:
+#     print("broj je deljiv sa 2")
+# else:
+#     print("broj nije deljiv sa 2")
+    
+
 # print("sara"+"saracevic")
 # ime="sara"
 # prezime="saracevic"
@@ -48,3 +78,15 @@
 #     print("suma je veca od 20")
 # else:
 #     print("suma je manja od 20")
+# broj=int(input("unesite neki broj"))
+# if broj>0:
+#     print("broj je pozitivan")
+# else:
+#     print("broj je negativan")
+# a=int(input("unesite neki broj"))
+# b=int(input("unesite neki broj2"))
+# zbir=a+b
+# if zbir >20:
+#     print("zbir je veci od 20")
+# else:
+#     print("zbir je manji od 20")
