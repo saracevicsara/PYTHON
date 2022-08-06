@@ -231,3 +231,39 @@
 # a**2
 #a*b
 #github.com/saracevicsara
+# a =int(input("Unesi neki broj izmedju 1 i 12 :"))
+# if a==1:
+#     print("Januar")
+# elif a==2:
+#     print("Februar")
+# elif a==3:
+#     print("Mart")
+# elif a==4:
+#     print("April")
+# elif a==5:
+#     print("Maj")
+# elif a==6:
+#     print("Jun")
+# elif a==7:
+#     print("Jul")
+# elif a==8:
+#     print("Avgust")
+# elif a==9:
+#     print("Septembar")
+# elif a==10:
+#     print("Oktobar")
+# elif a==11:
+#     print("Novembar")
+# elif a==12:
+#     print("Decembar")
+# else:
+#     print("Izlaz iz Programa")
+# x=int(input("unesite vase godine:"))
+# if x<8:
+#     print("vasa karta je besplatna")
+# elif x>=8 and x<=18:
+#     print("vasa karta je 200 dinara")
+# elif x>65:
+#     print("vasa karta je 100 dinara")
+# else:
+#     print("vasa karta je 500 dinara")
