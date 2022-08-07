@@ -293,3 +293,7 @@
 #     if  i!=7:
 #         print(i)
 #Unesi neki broj. Napravi ispis svih parnih brojeva do broja koji ste unijeli
+a={"sara","jijo","kik"}
+for x in a:
+    print(x)
+# print(type(a))

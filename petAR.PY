@@ -111,3 +111,45 @@
 
 
 # print(5**)
+
+
+
+
+# myset = {"apple", "banana", 1,"apple",True,4.5}
+# tropical = {"pineapple", "mango", "papaya"}
+# myset.update(tropical)
+# print(myset)
+# myset.add("cherry")
+# print(myset)
+# tropical = {"pineapple", "mango", "papaya"}
+# tropical.remove("mango")
+# print(tropical)
+# tropical = {"pineapple", "mango", "papaya"}
+# tropical.discard("mango")
+# print(tropical)
+# tropical.pop()
+# print(tropical)tropical = {"pineapple", "mango", "papaya"}
+# tropical = {"pineapple", "mango", "papaya"}
+# tropical.clear()
+# print(tropical)
+# tropical = {"pineapple", "mango", "papaya"}
+# for i in tropical:
+#     print(i)
+# myset = {"apple", "banana", 1,"apple",True,4.5}
+# tropical = {"pineapple", "mango", "papaya"}
+# noviset=myset.union(tropical)
+# print(noviset)
+# x = {"apple", "banana", "cherry"}
+# y = {"google", "microsoft", "apple"}
+
+# noviset=x.intersection_update(y)
+
+# print(x)
+# x = {"apple", "banana", "cherry"}
+# y = {"google", "microsoft", "apple"}
+
+# x.symmetric_difference_update(y)
+
+# print(x)
+# Write a Python program to find maximum and the minimum value in a set
+#github.com/saracevicsara
