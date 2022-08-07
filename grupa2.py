@@ -267,3 +267,29 @@
 #     print("vasa karta je 100 dinara")
 # else:
 #     print("vasa karta je 500 dinara")
+# for s in range(1,6,2):
+#     print(s)
+# for i in range (2,11,2):
+#     print(i)
+# print("unosimo policu broj",)
+# print("unosimo policu broj 2")
+# print("unosimo policu broj 3")
+# print("unosimo policu broj 4")
+# print("unosimo policu broj 5")
+# print("unosimo policu broj 6")
+# print("unosimo policu broj 7")
+# for i in range(1,11):
+#     print("unosimo policu broj",i)
+# for i in range(0,3):
+#     print("python")
+# for j in range(0,3):
+#     print("je super")
+
+# for i in range(10,0,-1):
+#     print(i)
+# for i in range(10,0,-1):
+#     print("unosimo policu broj",i)
+# for i in range(10,0,-1):
+#     if  i!=7:
+#         print(i)
+#Unesi neki broj. Napravi ispis svih parnih brojeva do broja koji ste unijeli
