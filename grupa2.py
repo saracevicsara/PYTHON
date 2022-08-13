@@ -293,7 +293,18 @@
 #     if  i!=7:
 #         print(i)
 #Unesi neki broj. Napravi ispis svih parnih brojeva do broja koji ste unijeli
-a={"sara","jijo","kik"}
-for x in a:
-    print(x)
-# print(type(a))
+# broj=int(input("unesite neki broj"))  
+# for i in range(2,broj+1,2):
+#     print(i)
+# a=int(input("unesi te neki broj"))
+# for i in range(a+1,0,-2):
+#    print(i)
+
+# broj_djaka=int(input("unesite broj djaka"))
+# djaci_na_ispitivanju=int(input("unesite neki broj"))
+# for i in range (1,broj_djaka+1,djaci_na_ispitivanju):
+#     print (i)
+
+
+
+

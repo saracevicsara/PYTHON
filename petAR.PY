@@ -153,3 +153,10 @@
 # print(x)
 # Write a Python program to find maximum and the minimum value in a set
 #github.com/saracevicsara
+# thistuple = ("apple", "banana", "cherry", "apple", "cherry")
+# thislist=list(thistuple)
+# print(thislist)
+# print(thistuple[4])
+thistuple = ("apple", "banana", "cherry")
+for i in range(thistuple):
+  print(thistuple[i])
