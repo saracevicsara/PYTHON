@@ -157,6 +157,44 @@
 # thislist=list(thistuple)
 # print(thislist)
 # print(thistuple[4])
-setn={1,2,3,4,5,6,7,8,9,10}
-print(max(setn))
-print(min(setn))
+# setn={1,2,3,4,5,6,7,8,9,10}
+# print(max(setn))
+# print(min(setn))
+# mytuple = ("apple", "banana", "cherry")
+# print(mytuple[1])
+# mytuple = ("apple", "banana", "cherry","apple")
+# print(mytuple)
+# mytuple = ("apple", "banana", "cherry")
+# print(len(mytuple))
+# tuple1 = ("abc", 34, True, 40, "male")
+# print(type(tuple1))
+# x = ("apple", "banana", "cherry")
+# y = list(x)
+# y[1] = "kiwi"
+# x = tuple(y)
+
+# print(x)
+# x = ("apple", "banana", "cherry")
+# y = list(x)
+# y.append("kiwi")
+# x = tuple(y)
+
+# print(x)
+# x = ("apple", "banana", "cherry")
+# y=("orange","kiwi")
+# x=x+y
+# print(x)
+# fruits = ("apple", "banana", "cherry")
+# (green, red,yellow) = fruits
+# print(green)
+# print(red)
+# print(yellow)
+# fruits = ("apple", "banana", "cherry","apple")
+# fruits.count("apple")
+# print(fruits.count("apple"))
+# for i in fruits:
+#     print(i)
+
+
+# brojevi=(1,2,1,5,7,61,1)
+# print(brojevi.count(1))
