@@ -308,3 +308,27 @@
 
 
 
+# i = 1
+# while i < 6:
+#   print(i)
+#   i =+ 1
+
+# lozinka=123
+# while True:
+#     korisnik=int(input("unesit sifru"))
+#     if korisnik==lozinka:
+#         print("sifra je ispravna")
+#         break
+#     else:
+#         print("sifra nije ispravna")
+# broj=120912346 
+# while  True: 
+#     korisnik=int(input("pokusajte pogditi broj a 10000 eura"))
+#     if korisnik==broj:
+#         print("pogodili ste broj dobijate 10000 eura")
+#         break
+#     else:
+#         print("niste pogodili pobednicki broj")
+    
+    
+

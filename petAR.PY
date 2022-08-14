@@ -157,6 +157,6 @@
 # thislist=list(thistuple)
 # print(thislist)
 # print(thistuple[4])
-thistuple = ("apple", "banana", "cherry")
-for i in range(thistuple):
-  print(thistuple[i])
+setn={1,2,3,4,5,6,7,8,9,10}
+print(max(setn))
+print(min(setn))
