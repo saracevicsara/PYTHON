@@ -194,7 +194,5 @@
 # print(fruits.count("apple"))
 # for i in fruits:
 #     print(i)
-
-
 # brojevi=(1,2,1,5,7,61,1)
 # print(brojevi.count(1))
