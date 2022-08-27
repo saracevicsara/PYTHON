@@ -79,23 +79,23 @@
 # ----------------
 
 
-dict = {
-    "emp1" : {
-        "name" : "Petar", "salary" : 500
-    },
-    "emp2" : {
-        "name" : "Marija", "salary" : 600
-    },
-    "emp3" : {
-        "name" : "Ana", "salary" : 700
-    }
-}
+# dict = {
+#     "emp1" : {
+#         "name" : "Petar", "salary" : 500
+#     },
+#     "emp2" : {
+#         "name" : "Marija", "salary" : 600
+#     },
+#     "emp3" : {
+#         "name" : "Ana", "salary" : 700
+#     }
+# }
 
-for i in dict.values():
-    if i["name"] == "Marija":
-        i["salary"] = 1000
-        break
-print(dict)
+# for i in dict.values():
+#     if i["name"] == "Marija":
+#         i["salary"] = 1000
+#         break
+# print(dict)
 
 
 
