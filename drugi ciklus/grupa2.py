@@ -13,3 +13,28 @@
 # print(lista_stringova)
 # lista_brojeva=[10,11,11,13,9,14,10,11,11,12]
 # print(lista_brojeva[3])
+#----------------------------------------------------------------
+# mylist=["sara","saracevic",16,9.6,2006]
+        #   0        1        2  3    4
+# print(mylist[1])
+# 0="sara"
+# 1="saracevic"
+# 2=16
+# 3=9.6
+# 4=2006
+# broj=17
+# broj2=76 
+# mylist=["sara","saracevic",16,9.6,2006]
+# print(mylist[-1])
+# print(mylist[4])
+# mylist=["sara","saracevic",16,9.6,2006]
+# mylist[-1]=15
+# print(mylist)
+# mylist=["sara","saracevic",16,9.6,2006]
+# mylist.append("python")
+# print(mylist)
+# # .append()
+mylist=["sara","saracevic",16,9.6,2006]
+mylist.insert(1,"python")
+print(mylist)
+
