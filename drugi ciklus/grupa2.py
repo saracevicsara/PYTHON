@@ -34,7 +34,28 @@
 # mylist.append("python")
 # print(mylist)
 # # .append()
-mylist=["sara","saracevic",16,9.6,2006]
-mylist.insert(1,"python")
-print(mylist)
+# mylist=["sara","saracevic",16,9.6,2006]
+# mylist.insert(1,"python")
+# print(mylist)
+# mylist=["sara","saracevic",16,9.6,2006]
+# mylist.remove(16)
+# print(mylist)
 
+# mylist=["davud","dolicanin",10.27,2011]
+# # mylist.append(9)
+# # mylist.insert(2,"sara")
+# mylist.remove(2011)
+# print(mylist)
+# mylist=["sara","saracevic",16,9.6,2006]
+# mylist.pop(1)
+# print(mylist)
+# 0="sara"
+# 1="saracevic"
+# 2=16
+# mylist=["davud","dolicanin",10.27,2011]
+# # del mylist[1]
+# # mylist.pop(1)
+# print(mylist)
+# mylist=["davud","dolicanin",10.27,2011]
+# mylist.clear()
+# print(mylist)
