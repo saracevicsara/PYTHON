@@ -59,3 +59,32 @@
 # mylist=["davud","dolicanin",10.27,2011]
 # mylist.clear()
 # print(mylist)
+# listica=[1,6,7,8,18,-34,89,-998754]
+# for i in listica:
+#         print(i)
+
+
+# listica=[1,6,7,8,18,-34,89,-998754]
+# for i in listica:
+#         if i<0:
+#                 print("negativan broj je:",i)
+
+
+
+# /3 fizz
+# /5 buzz
+# /3 i /5 fizzbuzz
+# %==0
+#------------------------------------------------
+# lista=[3,5,15,9,8,7,90,4567]
+# for i in lista:
+#         if i%3==0 and i%5==0:
+#                 print("fizzbuzz")
+#         elif i%3==0:
+#                 print("fizz")
+#         elif i%5==0:
+#                 print("buzz")
+#         else:
+#                 print("nije ni fiz ni buzz ni fizzbuzz")
+
+
