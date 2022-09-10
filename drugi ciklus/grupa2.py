@@ -86,5 +86,38 @@
 #                 print("buzz")
 #         else:
 #                 print("nije ni fiz ni buzz ni fizzbuzz")
+#--------------------------------------------------
+# [3,5,6,7,332,5]
+# for
+# if
+# prin
+
+# list=[1,2,34,123,24,53,5,6,3,53,2,23]
+# for i in list:
+#         if i%5==0:
+#                 print(i)
 
 
+
+
+# list=[1,2,34,123,24,53,5,6,3,53,2,23]
+# broj=int(input("unesite neki"))
+# list.insert(2,broj)
+# print(list)
+
+
+
+# list=[1,2,34,123,24,53,5,6,3,53,2,23]
+# broj=int(input("unesite neki broj"))
+# list.append(broj)
+# print(list)
+# [9,5,699,6,4]
+# 699
+# []
+# list=[1,2,34,123,24,53,5,6,3,53,2,23]
+# broj=int(input("unesute neki broj"))
+# for i in list:
+#         if i==broj:
+#                 print(list.clear())
+#         else:
+#                 print(list.append(broj))
