@@ -115,9 +115,62 @@
 # 699
 # []
 # list=[1,2,34,123,24,53,5,6,3,53,2,23]
-# broj=int(input("unesute neki broj"))
 # for i in list:
+#         broj=int(input("unesute neki broj"))
 #         if i==broj:
 #                 print(list.clear())
 #         else:
 #                 print(list.append(broj))
+
+# mylist=[23,24,28,56,98,54,13,18,27,24,98753,2,76543,234567] 
+# for i in mylist:
+#         if i %2==0:
+#             print("parni brojevi su:",i)
+        
+        #     [5,7,8,9,9]
+        #     ako je poslednji element liste 5 
+        #     vrati "DA"
+        #     ako nije vrati "NE"
+
+
+# lista=[3,6,89,5,790,8,21,0,5]
+# if lista[-1]==5:
+#         print("DA")
+# else:
+#         print("NE")
+
+
+# inputa 10-na kraju liste
+# print("kraj casa")
+# else:
+#         print("vezbamo jos")
+
+# lista=[1,66,7,8,8,3,22,44]
+# broj=int(input("unesite neki broj"))
+# lista.append(broj)
+# if lista[-1]==10:
+#         print("kraj casa")
+# else:
+#         print("vezbamo jos")
+
+
+
+lista=[7,55,43,2,99]
+broj=int(input("unesite neki broj"))
+lista.append(broj)
+if broj==10:
+        print("kraj casa")
+else:
+        print("vezbamo jos")
+
+
+
+
+
+
+
+
+
+
+
+
