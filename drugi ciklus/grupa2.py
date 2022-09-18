@@ -155,22 +155,41 @@
 
 
 
-lista=[7,55,43,2,99]
-broj=int(input("unesite neki broj"))
-lista.append(broj)
-if broj==10:
-        print("kraj casa")
-else:
-        print("vezbamo jos")
+# lista=[7,55,43,2,99]
+# broj=int(input("unesite neki broj"))
+# lista.append(broj)
+# if broj==10:
+#         print("kraj casa")
+# else:
+#         print("vezbamo jos")
 
 
+# lista=[123,5,7,8,[45,89,4,["sara",7]],90605,"iiwuhfw",0.9,True,["jcibcwu","SLihwch"]]
+# lista[4][3].append(90)
+# print(lista)
+
+# lista=[123,5,7,8,[45,89,4,["sara",7]],90605,"iiwuhfw",0.9,True,["jcibcwu","SLihwch"]]
+# print(len(lista))
+# lista[9].insert(0,"sara")
+# print(lista)
 
 
+# myset = {"apple", "banana", "cherry"}
+# print(myset)
+# myset = {"apple", "banana", "cherry"}
+# myset.add("pear")
+# print(myset)
 
+# myset = {"apple", "banana", "cherry"}
+# myset2={"pear","watermellon","kiwi"}
+# myset.update(myset2)
+# print(myset)
+# myset = {"apple", "banana", "cherry"}
+# myset.discard("apple")
+# print(myset)
 
-
-
-
+# myset = {"apple", "banana", "cherry"}
+# print(len(myset))
 
 
 
