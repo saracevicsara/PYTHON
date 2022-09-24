@@ -190,6 +190,27 @@
 
 # myset = {"apple", "banana", "cherry"}
 # print(len(myset))
+# list=[1,2,34,123,24,53,5,6,3,53,2,23]
+# for i in list:
+#         broj=int(input("unesute neki broj"))
+#         if i==broj:
+#                 list.clear()
+#                 print(list)
+#         elif  i!=broj:
+#                 list.append(broj)
+#                 print(list)
+# thisset = {"apple", "banana", "cherry"}
+# thisset.clear()
+# print(thisset)
+# tuple=("adem","kadir",10,True,5.7,945748)
+# if "adem"in tuple:
+#         print(tuple)
 
-
-
+# tuple=("adem","kadir",10,True,5.7,945748)
+# if 10==tuple[2]:
+#         print("jes")
+# moj_tuple=("adem","kadir",10,True,5.7,945748)
+# tuple_list=list(moj_tuple)
+# tuple_list.append("novi element")
+# moj_tuple=tuple(tuple_list)
+# print(moj_tuple)
