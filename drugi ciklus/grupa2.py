@@ -214,3 +214,37 @@
 # tuple_list.append("novi element")
 # moj_tuple=tuple(tuple_list)
 # print(moj_tuple)
+
+
+
+# tt=("mehmed","zaimovic",5.9,2005)
+# tuple_tate=list(tt)
+# tuple_tate.pop(3)
+# tt=tuple(tuple_tate)
+# print(tt)
+
+
+# ajlana=("ajlana","sacirovic",12,7.7)
+# sacirovic=list(ajlana)
+# sacirovic.insert(2,"lana")
+# ajlana=tuple(sacirovic)
+# print(ajlana)
+
+
+
+
+
+
+
+
+# amar=("amar","dervisevic",9,9.12)
+# dervisevic=list(amar)
+# dervisevic.append(2)
+# amar=tuple(dervisevic)
+# print(amar)
+
+# hamza=('hamza','curic',1,11,2010)
+# for i in hamza:
+#         print(i)
+
+# typing.com/join#6291050646E3D
