@@ -231,12 +231,6 @@
 # print(ajlana)
 
 
-
-
-
-
-
-
 # amar=("amar","dervisevic",9,9.12)
 # dervisevic=list(amar)
 # dervisevic.append(2)
@@ -246,4 +240,24 @@
 # hamza=('hamza','curic',1,11,2010)
 # for i in hamza:
 #         print(i)
+
+
+# mojtuple=(232,4321,6545,3567,2465,434)
+
+# broj=int(input("unesite neki broj"))
+# kadirovalista=list(mojtuple)
+# kadirovalista.append(broj)
+# mojtuple=tuple(kadirovalista)
+# print(mojtuple)
+
+# oo=("adem","tiganj","deka",2012,2.4)
+# broj=int(input("unesite neki broj"))
+# tuple_list=list(oo)
+# tuple_list.insert(3,broj)
+# oo=tuple(tuple_list)
+# print(oo)
+
+
+
+
 
