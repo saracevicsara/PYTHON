@@ -256,6 +256,21 @@
 # tuple_list.insert(3,broj)
 # oo=tuple(tuple_list)
 # print(oo)
+# obj={
+#        " car":"audi",
+#         "animal":'cat',
+#          " car":"audi",
+#         "animal":'cat',
+#          " car":"audi",
+#         "animal":'cat',
+#          " car":"audi",
+#         "animal":'cat'
+# }
+
+# https://www.w3schools.com/python/
+
+
+        
 
 
 
