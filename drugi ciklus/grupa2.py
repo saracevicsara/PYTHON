@@ -268,11 +268,80 @@
 # }
 
 # https://www.w3schools.com/python/
+# lista=["amar","dervisevic",9,9.12]
+# lista.append(-1)
+# print(lista
 
+# davud={"davud","dolicanin",10.27,2011}
+# davud.discard("davud")
+# print(davud)
+#-------------------------------------------------------------------
+#                           Dictionary
 
+#car={
+#         "brand":"bmw",
+#         "model":"M3",     
+#         "godina":"2019",
+#         }
+
+# informacije={
+#         "ime":"sara",
+#         "prezime":"saracevic",
+#         "godina-rodjenja":"2006"
+# }
+
+# print(len(informacije))
+# informacije={
+#         "ime":"sara",
+#         #key    value
+#         "prezime":"saracevic",
+#         "godina-rodjenja":[9,6,2006],
+#         "broj":4,
+#         'float':9.7,
+#         "bool":True
         
+#         }
+# print(informacije)
 
+# thisdict = {
+#   "brand": "Ford",
+#   "model": "Mustang",
+#   "year": 1964
+# }
+# x = thisdict["year"]
 
+# print(x+5)
+
+# thisdict = {
+#   "brand": "Ford",
+#   "model": "Mustang",
+#   "year": 1964
+# }
+# x = thisdict.get("year")
+
+# print(x+5)
+# thisdict = {
+#   "brand": "Ford",
+#   "model": "Mustang",
+#   "year": 1964
+# }
+# x = thisdict.keys()
+
+# print(x)
+
+car = {
+"brand": "Ford",
+"model": "Mustang",
+"year": 1964
+}
+
+x = car.keys()
+
+print(x) #before the change
+
+car["color"] = "white"
+
+print(x) #after the change
 
 
 
