@@ -329,19 +329,62 @@
 
 # print(x)
 
-car = {
-"brand": "Ford",
-"model": "Mustang",
-"year": 1964
-}
+# car = {
+# "brand": "Ford"
+# "model": "Mustang",
+# "year": 1964
+# }
 
-x = car.keys()
+# x = car.keys()
 
-print(x) #before the change
+# print(x) #before the change
 
-car["color"] = "white"
+# car["color"] = "white"
 
-print(x) #after the change
+# print(x) #after the change
 
+
+# dictionary = {
+#         "Brand":"audi",
+#         "model":"L8",
+#         "godina":2017
+# }
+# print(dictionary)
+
+
+# car={
+#      "brand":"bmw",
+#      "model":"m3",
+#      "godina":2000,
+# }
+# x=car.keys()
+# print(x)
+
+# thisdict = {
+#         "brand":"bmw",
+#         "model":"Mustang",
+#         "year":2013
+# }
+# thisdict["year"] = 2018
+# print(thisdict)
+
+
+
+# thisdict = {
+#         "brand":"bmw",
+#         "model":"Mustang",
+#         "year":2013
+# }
+# thisdict.update({"year":2022})
+# print(thisdict)       
+
+
+# thisdict = {
+#         "brand":"bmw",
+#         "model":"Mustang",
+#         "year":2013
+# }
+# thisdict.update({"fjgugwehuw":2022})
+# print(thisdict)   
 
 
