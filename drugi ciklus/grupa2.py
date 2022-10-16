@@ -386,5 +386,39 @@
 # }
 # thisdict.update({"fjgugwehuw":2022})
 # print(thisdict)   
+# dict={
+#         "ime":"sara",
+#         "prezime":"saracevic",
+#         "godine":16
+# }
+# dict["godine"]=17
+
+# print(dict)
 
 
+# dict={
+#         "ime":"sara",
+#         "prezime":"saracevic",
+#         "godine":16
+# }
+# dict.update({"godine":17})
+# print(dict)
+
+
+
+# thisdict={
+#         'ime':'hamza',
+#         'prezime':'curic',
+#         'godine':'2010'
+# }
+# thisdict['godina'] = 12
+# print(thisdict)
+
+
+
+# dict={ 'ime':'hamza',
+#         'prezime':'curic',
+#         'godine':'2010' 
+# }
+# dict.update({"godina":10})
+# print(dict)
