@@ -422,3 +422,34 @@
 # }
 # dict.update({"godina":10})
 # print(dict)
+
+# thisdict={
+#         'ime':'davud',
+#         'prezime':'dolicanin',
+#         'godine':11,
+# }
+# thisdict.pop('ime')
+# print(thisdict)
+# thisdict={
+#         'ime':'davud',
+#         'prezime':'dolicanin',
+#         'godine':11,
+# }
+# thisdict.popitem()
+# print(thisdict)
+
+# thisdict={
+        
+
+
+
+import this
+
+
+thisdict={          
+        "ime":"ajlana",
+        "prezime":"sacirovic",
+        "godine":12
+}
+thisdict.clear()
+print(thisdict)
