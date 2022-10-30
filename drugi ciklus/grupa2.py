@@ -438,18 +438,58 @@
 # thisdict.popitem()
 # print(thisdict)
 
+# thisdict={          
+#         "ime":"ajlana",
+#         "prezime":"sacirovic",
+#         "godine":12
+# }
+# thisdict.clear()
+# print(thisdict)
+
 # thisdict={
-        
+#         "ime":"amar",
+#         "prezime":"dervisevic",
+#         "godina":9
+
+# }
+# del thisdict['ime']
+# print(thisdict)
+# thisdict={
+#         "ime":"amar",
+#         "prezime":"dervisevic",
+#         "godina":9
+
+# }
+# for i in thisdict:
+#         print(thisdict[i])
+
+# thisdict={
+#         "ime":"sara",
+#         "prezime":"saracevic",
+#         "godine":16
+# } 
+
+# for i in thisdict:
+#         print(i)
+# thisdict={
+#         "ime":"sara",
+#         "prezime":"saracevic",
+#         "godine":16
+# }
+
+# for i in thisdict:
+#         print(thisdict[i])
 
 
 
-import this
+# thisdict={         
+#           "ime":"ajlana",
+#           "prezime":"sacirovic",
+#           "godine":12,
 
-
-thisdict={          
-        "ime":"ajlana",
-        "prezime":"sacirovic",
-        "godine":12
-}
-thisdict.clear()
-print(thisdict)
+# }
+# for i in thisdict.keys():
+#         print(i)
+ 
+# for i in thisdict.values():
+#         print(i)
