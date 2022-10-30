@@ -493,3 +493,44 @@
  
 # for i in thisdict.values():
 #         print(i)
+
+
+# dict={
+#         "ime":"sara",
+#         "prezime":"saracevic",
+#         "godine":16
+# }
+# vrednost=str(input('UNESITE NEKKU VREDNOST'))
+# print(str(dict["godine"])+vrednost)
+
+
+
+# x={
+#    "ime":"Adem",
+#    "prezime":"tiganj",
+#    "godine":10
+# }
+# print(x["ime"]+"mehmed")
+
+# osnova_sifre={
+# 56
+# 45
+# 98
+# }
+
+osnova_sifre={
+"sifra1":56,
+"sifra2":45,
+"sifra3":98
+}
+
+vrednost=str(input("unesite trocifreni broj"))
+print(str(osnova_sifre["sifra2"])+vrednost)
+
+
+
+
+
+
+
+
