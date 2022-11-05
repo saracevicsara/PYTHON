@@ -518,14 +518,29 @@
 # 98
 # }
 
+
+
 osnova_sifre={
 "sifra1":56,
 "sifra2":45,
 "sifra3":98
 }
+kljucevi=osnova_sifre.keys()
+print(list(kljucevi))
+korisnik=str(input("unesite koju cete sifru "))
+if korisnik ==(list(kljucevi[0])):
+        vrednost=str(input("unesite trocifreni broj"))
+        print(str(osnova_sifre["sifra1"])+vrednost)
+elif korisnik == list(kljucevi[1]):
+        vrednost=str(input("unesite trocifreni broj"))
+        print(str(osnova_sifre["sifra2"])+vrednost)
+elif korisnik ==list(kljucevi[2]):
+        vrednost=str(input("unesite trocifreni broj"))
+        print(str(osnova_sifre["sifra3"])+vrednost)
+else:
+        print("greska")
 
-vrednost=str(input("unesite trocifreni broj"))
-print(str(osnova_sifre["sifra2"])+vrednost)
+
 
 
 
