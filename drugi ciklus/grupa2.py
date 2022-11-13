@@ -525,23 +525,72 @@
 # 46+input 
 # print
 
-osnova_sifre={
-"sifra1":56,
-"sifra2":45,
-"sifra3":98
-}
-korisnik=str(input("unesite koju cete sifru "))
-if korisnik == "sifra1":
-        vrednost=str(input("unesite trocifreni broj"))
-        print(str(osnova_sifre["sifra1"])+vrednost)
-elif korisnik == "sifra2":
-        vrednost=str(input("unesite trocifreni broj"))
-        print(str(osnova_sifre["sifra2"])+vrednost)
-elif korisnik =="sifra3":
-        vrednost=str(input("unesite trocifreni broj"))
-        print(str(osnova_sifre["sifra3"])+vrednost)
-else:
-        print("greska")
+# osnova_sifre={
+# "sifra1":56,
+# "sifra2":45,
+# "sifra3":98
+# }
+# korisnik=str(input("unesite koju cete sifru "))
+# if korisnik == "sifra1":
+#         vrednost=str(input("unesite trocifreni broj"))
+#         print(str(osnova_sifre["sifra1"])+vrednost)
+# elif korisnik == "sifra2":
+#         vrednost=str(input("unesite trocifreni broj"))
+#         print(str(osnova_sifre["sifra2"])+vrednost)
+# elif korisnik =="sifra3":
+#         vrednost=str(input("unesite trocifreni broj"))
+#         print(str(osnova_sifre["sifra3"])+vrednost)
+# else:
+#         print("greska")
+
+
+
+
+# osnova_sifre={
+# "sifra1":56,
+# "sifra2":45,
+# "sifra3":98
+# }
+# for i in osnova_sifre.keys():
+#         print(i)
+# korisnik=str(input("unesite neku sifru"))
+# if korisnik=="sifra1":
+#         vrednost=str(input("unesite neki trocifreni broj"))
+#         print(str(osnova_sifre["sifra1"])+vrednost)
+# elif korisnik=="sifra2":
+#         vrednost=str(input("unesite neki trocifreni broj"))
+#         print(str(osnova_sifre["sifra2"])+vrednost)
+# elif korisnik=="sifra3":
+#         vrednost=str(input("unesite neki trocifreni broj"))
+#         print(str(osnova_sifre["sifra3"])+vrednost)
+# else:
+#         print("greska")
+# d = {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+
+
+# d = {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+# x=int(input("unesite neki broj"))
+# if x in d:
+#         print("kljuc postoji")
+# else:
+#         print("ne postoji")
+
+
+
+
+# d = {1: 10,
+#      2: 20,
+#  3: 30, 
+#   4: 40,
+#    5: 50,
+#     6: 60}
+# korisnik=int(input("unesite neki kljuc"))
+# if korisnik in d:
+#         print("kljuc posoji")
+# else:
+#         print("kljuc ne postoji")
+
+
 
 
 
