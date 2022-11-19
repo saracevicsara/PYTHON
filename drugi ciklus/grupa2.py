@@ -591,6 +591,15 @@
 #         print("kljuc ne postoji")
 
 
+# def myFunction(a,b):
+#     print(a+b)
+
+
+# a=9
+# b=78
+# print(a*b)
+
+# myFunction(8,9)
 
 
 
@@ -598,9 +607,50 @@
 
 
 
+# my_function("Emil")
+# # my_function("Tobias")
+# # my_function("Linus")
 
 
 
+
+
+
+# def my_function(fname,lname):
+#   print(fname + lname)
+
+
+
+# my_function("sara","saracevic")
+# # my_function("Linus")
+
+# my_function("ajlana","sacirovic")
+
+
+
+# my_function("ali","vapljanin")
+
+
+
+
+# def pozitivan_br(a):
+#         korisnik=int(input("unesite neki broj"))
+#         if korisnik>a:
+#                 print("broj je pozitivan")
+#         else:
+#                 print("broj je negativan")
+
+
+# # pozitivan_br(int(input("unesite neki broj")))
+
+# pozitivan_br(0)
+
+
+
+#funkcija fizz buzz
+# ako je broj deljiv sa 3 fizz
+# ako je broj deljiv sa 5 buzz
+# a ako je deljiv i sa 3 i sa 5 fizzbuzz
 
 
 
