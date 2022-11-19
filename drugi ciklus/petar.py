@@ -94,20 +94,39 @@
 # ---------------------------
 
 
-eur = int(input("Unesite koliko imate evra: "))
-print("To je", eur * 117.5, "dinara")
+# eur = int(input("Unesite koliko imate evra: "))
+# print("To je", eur * 117.5, "dinara")
+
+# broj=int(input("unesite neki  dvocifreni broj"))
+# a=str(broj//10)
+# b=str(broj%10)
+# print(b+a)
 
 
 
 
+# ime="sara"
+# #   0 1 2 3
+# print(len(ime))
+# print(ime[3])
+
+
+# broj=7
+# if broj ==6:
+#     print(broj+2)
+
+# else:
+#     print("broj je kontra od ifa")
 
 
 
-
-
-
-
-
+broj=int(input("unesite broj koji zelite da se proveri"))
+if broj>0:
+    print("broj je pozitivan")
+elif broj ==0:
+    print("broj je neutralan")
+else:
+    print("negativan")
 
 
 
