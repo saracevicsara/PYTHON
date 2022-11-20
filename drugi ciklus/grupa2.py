@@ -653,6 +653,71 @@
 # a ako je deljiv i sa 3 i sa 5 fizzbuzz
 
 
+# def fizzbuzz(a):
+#         if a%3 ==0 and a%5==0:
+#                 print("fizzbuzz")
+#         elif a%3==0:
+#                 print("fizz")
+#         elif a%5==0:
+#                 print("buzz")
+#         else:
+#                 print("greska")
+        
+
+
+# fizzbuzz(int(input("unesite neki broj")))
+
+#NAPRAVITE FUNKCIJU
+#ako korisnik unese neku od operacija 
+# (sabiranje,oduzimanje,deljenje ili mnozenje)
+#ponudite mu dva inputa input a i input b
+#u zavisnosti od operacije izracunajte a i b
+
+
+
+
+
+# def kalkulator(operacija):
+#         if operacija=="sabiranje":
+#                 a=int(input("unesite prvi broj"))
+#                 b=int(input("unesite drugi broj"))
+#                 print(a+b)
+#         elif operacija=="oduzimanje":
+#                 a=int(input("unesite prvi broj"))
+#                 b=int(input("unesite drugi broj"))
+#                 if a>b:
+#                         print(a-b)
+#                 else:
+#                         print(b-a)
+#         elif operacija=="deljenje":
+#                 a=int(input("unesite prvi broj"))
+#                 b=int(input("unesite drugi broj"))
+#                 print(a/b)
+#         elif operacija=="mnozenje":
+#                 a=int(input("unesite prvi broj"))
+#                 b=int(input("unesite drugi broj"))
+#                 print(a*b)
+#         else:
+#                 print("niste uneli pravu operaciju")
+
+# kalkulator(str(input("unesite zeljenu operaciju")))
+
+
+#fuknkicja 
+#jedan argument (pravougaonik ili kvadrat)
+# za pravougaonik input a i b a*b
+#za kvadrat input a a**2
+
+
+
+
+
+
+
+
+
+
+
 
 
 
