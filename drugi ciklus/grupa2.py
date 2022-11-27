@@ -702,23 +702,51 @@
 
 # kalkulator(str(input("unesite zeljenu operaciju")))
 
-
 #fuknkicja 
 #jedan argument (pravougaonik ili kvadrat)
-# za pravougaonik input a i b a*b
+# za pravougaonik input a i b a*b       
 #za kvadrat input a a**2
 
+# def myf(povrsina):
+#         if povrsina=="pravougaonik":
+#                 a=int(input("unesite prvi broj"))
+#                 b=int(input("unesite drugi broj"))
+#                 print("povrsina pravougaonika je:",a*b)
+#         elif povrsina=="kvadrat":
+#                 a=int(input("unesite prvi broj"))
+#                 print("povrsina kvadrata je:",a**2)
+#         else:
+#                 print("niste uneli adetkvatan oblik")
+
+# lista=[3,6,89,5,790,8,21,0,5]
+# myf(str(input("unesite odgovarajuci oblik(pravougaonik ili kvadrat)")))
+# def myf ():
+#         lista=[3,6,89,5,790,8,21,0,5]
+#         if lista[-1]==5:
+#                 a=int(input("unesite prvi broj"))
+#                 b=int(input("unesite drugi broj"))
+#                 print(a+b)
+#         else:
+#                 print("greska")
+
+# myf()
+
+# def myf():
+#         lista=[3,6,89,5,790,8,21,0,5]
+#         if lista[-1] == 5:
+#                 a=int(input("unesite nek broj"))
+#                 b=int(input("unesite neki drugi broj"))
+#                 print(a+b)
+#         else:
+#                 print("greska")        
+
+
+# myf()
 
 
 
 
-
-
-
-
-
-
-
-
+#funkcija
+#napravite listu i pomocu argumenta dodajte novi element na 4 indexu
 
 
