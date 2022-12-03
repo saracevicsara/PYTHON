@@ -743,10 +743,65 @@
 
 # myf()
 
-
-
-
 #funkcija
 #napravite listu i pomocu argumenta dodajte novi element na 4 indexu
+
+
+
+
+# def myf(a):
+#         lista=[1,5,6,8,9]
+#         lista.insert(4,a)
+#         print(lista)
+
+
+
+# myf(33)
+
+
+
+
+
+# def myf(novielement):
+#         mylist=[1,2,3,4,56,4,24,3456]
+#         mylist.insert(4,novielement)
+#         print(mylist)
+
+# myf(38)
+ 
+
+# def myf(novielement):
+#         mylist=[1,2,3,4,56,4,24,3456]
+#         mylist.append(novielement)
+#         print(mylist)
+
+
+# myf(int(input("unesite novi broj")))
+def myf(novielement):
+        thisdict={
+                'ime':'Hamza',
+                'prezime':'Curic',
+                'datum rodenja':'1,11,2010'
+        }
+        thisdict.update(novielement)
+        print(thisdict)
+myf({'godine':12})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
