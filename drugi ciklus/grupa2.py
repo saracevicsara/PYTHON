@@ -777,31 +777,12 @@
 
 
 # myf(int(input("unesite novi broj")))
-def myf(novielement):
-        thisdict={
-                'ime':'Hamza',
-                'prezime':'Curic',
-                'datum rodenja':'1,11,2010'
-        }
-        thisdict.update(novielement)
-        print(thisdict)
-myf({'godine':12})
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# def myf(novielement):
+#         thisdict={
+#                 'ime':'Hamza',
+#                 'prezime':'Curic',
+#                 'datum rodenja':'1,11,2010'
+#         }
+#         thisdict.update(novielement)
+#         print(thisdict)
+# myf({'godine':12}) 

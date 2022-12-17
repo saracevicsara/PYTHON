@@ -166,6 +166,60 @@
 
 
 
+# ime=str(input("unesite svoje ime"))
+# print(ime)
+
+
+
+# ime=str(input("unesite svoje ime"))
+# prezime=str(input("unesite svoje prezime"))
+# print(ime+prezime)
+
+# prvi_broj=int(input("unesite prvi broj"))
+# drugi_broj=int(input("unesite drugi broj"))
+# print(prvi_broj+drugi_broj)
+
+
+
+# broj=int(input("unesite neki broj"))
+# print(broj**2)
+# print(float(5))
+
+
+# prvi_broj=int(input("unesite prvi broj"))
+# drugi_broj=int(input("unesite drugi broj"))
+# print(prvi_broj+drugi_broj)
+# print(float(prvi_broj+drugi_broj))
+
+#koliko dinara
+#euro=117
+
+
+
+unos=int(input("unesite dinare"))
+euro=117
+print(int(unos/euro),"eura")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
