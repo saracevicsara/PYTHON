@@ -97,14 +97,23 @@
 #         break
 # print(dict)
 
+# broj=int(input("unesite zeljeni broj"))
+# if broj%3==0 and broj%5==0:
+#     print("fizzbuzz")
+# elif broj%5==0:
+#     print("buzz")
+# elif broj%3==0:
+#     print("fizz")
 
 
 
-
-
-
-
-
+# x=int(input("unesite prvi broj"))
+# y=int(input("unesite drugi broj"))
+# z=x+y
+# if z>20:
+#     print("suma je veca od 20")
+# else:
+#     print("suma je manja od 20")
 
 
 
