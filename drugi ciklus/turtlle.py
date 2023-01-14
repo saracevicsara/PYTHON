@@ -86,58 +86,91 @@
 # for i in range(4):
 #     forward(90)
 #     left(90)
+#--------------------------------------------------------------
 #zgrada
-from turtle import*
-color("blue")
-width(2)
-begin_fill()
-forward(100)
-left(90)
-forward(200)
-left(90)
-forward(100)
-left(90)
-forward(200)
-left(90)
-#Vrata
-forward(40)
-left(90)
-forward(30)
-right(90)
-forward(20)
-right(90)
-forward(30)
-#prozori
-left(90)
-forward(40)
-left(90)
-forward(100)
-left(90)
-penup()
-forward(20)
-pendown()
-for i in range(4):
-     forward(20)
-     left(90)
-penup()
-forward(40)
-pendown()
-for i in range(4):
-     forward(20)
-     left(90)
-#drugi sprat
-right(90)
-penup()
-forward(40)
-pendown()
-for i in range(4):
-     forward(20)
-     left(90)
-right(90)
-penup()
-forward(20)
-pendown()
-for i in range(4):
-     forward(20)
-     left(90)
-done()
+# from turtle import*
+# color("blue")
+# width(2)
+# begin_fill()
+# forward(100)
+# left(90)
+# forward(200)
+# left(90)
+# forward(100)
+# left(90)
+# forward(200)
+# left(90)
+# #Vrata
+# forward(40)
+# left(90)
+# forward(30)
+# right(90)
+# forward(20)
+# right(90)
+# forward(30)
+# #prozori
+# left(90)
+# forward(40)
+# left(90)
+# forward(100)
+# left(90)
+# penup()
+# forward(20)
+# pendown()
+# for i in range(4):
+#      forward(20)
+#      left(90)
+# penup()
+# forward(40)
+# pendown()
+# for i in range(4):
+#      forward(20)
+#      left(90)
+# #drugi sprat
+# right(90)
+# penup()
+# forward(40)
+# pendown()
+# for i in range(4):
+#      forward(20)
+#      left(90)
+# right(90)
+# penup()
+# forward(20)
+# pendown()
+# for i in range(4):
+#      forward(20)
+#      left(90)
+# done()
+#---------------------------------------------------
+
+# from turtle import*
+# width(4)
+# color("red")
+# begin_fill()
+# for i in range(5):
+#      forward(150)
+#      right(144)
+# end_fill()
+# done()
+#--------------------------------------------
+#sunce
+
+# from turtle import*
+# width(5)
+# color('yellow')
+# begin_fill()
+# circle(100)
+# end_fill()
+# left(90)
+# forward(100)
+# # for i in range(20):
+# while True:
+#      forward(180)
+#      backward(180)
+#      lt(20)
+# done()
+
+
+import turtle
+turtle.circle(50,360)
