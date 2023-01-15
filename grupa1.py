@@ -86,7 +86,7 @@
 # b = int(input("unesite neki broj"))
 # if b > a:
 #   print("b is greater than a")
-# elif a == b:
+# elif a == b:r
 #   print("a and b are equal")
 
 # x=int(input("unesite neki broj od 1 do 12"))
