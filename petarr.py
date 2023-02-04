@@ -123,26 +123,49 @@
 
 
 
+# print("unosimo policu broj 1")
+# print("unosimo policu broj 2")
+# print("unosimo policu broj 3")
+# print("unosimo policu broj 4")
+# print("unosimo policu broj 5")
+# print("unosimo policu broj 6")
+# print("unosimo policu broj 7")
+# for brojac in range(1,11):
+#     print("unosimo poolicu broj",brojac)
 
 
 
+# for i in range(1,21):
+#     print(i)
+
+
+# for i in range(2,11,2):
+#     print(i)
+
+# for i in range(10,0,-1):
+#     print(i)
 
 
 
+# broj=int(input("unesite neki broj"))
+# for i in range(broj,0,-1):
+#     print(i)
+
+# broj=int(input("unesite neki broj"))
+# for i in range(0,broj+1,2):
+#      print(i)
+
+
+# broj_ucenika=int(input("unesite koliko ima ucenika u odeljenju"))
+# broj=int(input("unesite promenu brojaca"))
+# for i in range(0,broj_ucenika+1,broj):
+#     print(i)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+for i in range(1,11):
+    if i !=7:
+        print(i)
 
 
 
