@@ -163,12 +163,33 @@
 
 
 
-for i in range(1,11):
-    if i !=7:
-        print(i)
+# for i in range(1,11):
+#     if i !=7:
+#         print(i)
+
+# lozinka="sara123"
+# while True:
+#     korisnik=str(input('unesite lozinku'))
+#     if korisnik ==lozinka:
+#         print("pogodili ste lozinku")
+#         break
+#     else:
+#         print("pokusajte ponovo")
 
 
+brojic=788
 
+while True:
+    korisnik=float(input("unesite neki broj"))
+    if brojic==int(korisnik):
+        print("uneli ste tacan broj")
+    elif int(korisnik)==0:
+        print("prekid")
+        break
+    elif int(korisnik)>brojic:
+        print("vas broj je prevelik")
+    elif int(korisnik)<brojic:
+        print("vas je premali")
 
 
 
