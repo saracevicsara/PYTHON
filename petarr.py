@@ -177,19 +177,19 @@
 #         print("pokusajte ponovo")
 
 
-brojic=788
+# brojic=788
 
-while True:
-    korisnik=float(input("unesite neki broj"))
-    if brojic==int(korisnik):
-        print("uneli ste tacan broj")
-    elif int(korisnik)==0:
-        print("prekid")
-        break
-    elif int(korisnik)>brojic:
-        print("vas broj je prevelik")
-    elif int(korisnik)<brojic:
-        print("vas je premali")
+# while True:
+#     korisnik=float(input("unesite neki broj"))
+#     if brojic==int(korisnik):
+#         print("uneli ste tacan broj")
+#     elif int(korisnik)==0:
+#         print("prekid")
+#         break
+#     elif int(korisnik)>brojic:
+#         print("vas broj je prevelik")
+#     elif int(korisnik)<brojic:
+#         print("vas je premali")
 
 
 
