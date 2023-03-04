@@ -1,3 +1,4 @@
+#ocene za prvi ciklus(1-3) 
 # ali vapljanin:2
 # ajlana:2
 # amir:1
@@ -6,7 +7,7 @@
 #ali:2+
 #amar:1
 #sara:3
-
+#----------------------------------------
 
 # ime="sara"
 # # print(type(ime))
