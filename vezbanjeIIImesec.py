@@ -23,6 +23,39 @@
 #isa:3
 #mehmed:2
 #----------------------------------
+#for i while petlje (1-3)
+#kadir:2
+#davud:1
+#ali korac:3
+#ajlana:2
+#amar:1
+#sara:3
+#amir:2
+#mehmed:2
+#ali vapljanin:1
+#hamza:3
+#adem:
+
+
+
+
+
+
+
+
+
+#-------------------------------------------------
+# for i in range(10,1,-2):
+#     print(i)
+# for i in range(3):
+#     print("kadir")
+# for i in range(1,10):
+#     print(i)
+# for i in range(2,11,2):
+#     print(i)
+# for i in range(10,1,-1):
+#     print(i)
+
 # a=2
 # b=3
 # if a<b:
