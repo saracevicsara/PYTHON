@@ -34,7 +34,7 @@
 #mehmed:2
 #ali vapljanin:1
 #hamza:3
-#adem:
+#adem:1
 
 
 
