@@ -37,17 +37,10 @@
 #adem:1
 
 
-
-
-
-
-
-
-
 #-------------------------------------------------
 # for i in range(10,1,-2):
 #     print(i)
-# for i in range(3):
+# for i in range(3):    
 #     print("kadir")
 # for i in range(1,10):
 #     print(i)
@@ -99,4 +92,38 @@
 # euro=117
 # dinari=korisnik*euro
 # print(dinari)
+
+#------------------------------------------------------------------------------
+# de
+
+
+def my_function(a):
+    if a%3 and 5==0:
+        print("fizzbuzz")
+    elif a%5==0:
+        print("buzz")
+    elif a%3==0:
+        print("fizz")
+
+
+my_function(int(input("unesi broj plz")))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
